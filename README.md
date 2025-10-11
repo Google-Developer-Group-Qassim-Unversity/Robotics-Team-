@@ -40,7 +40,7 @@ Here’s an overview of our recent **bootcamps** and **team activities** 👇
 
 | Bootcamp | Description | Status |
 |-----------|--------------|---------|
-| [**Introduction to Arduino**](./bootcamps/introduction-to-arduino/README.md) | A 3-day hands-on training on Arduino, sensors, and embedded systems. | ✅ Completed |
+|[**Introduction to Arduino**](./bootcamps/introduction%20to%20arduino/Introduction.md)| A 3-day hands-on training on Arduino, sensors, and embedded systems. | ✅ Completed |
 
 
 ---
