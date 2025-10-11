@@ -32,11 +32,23 @@ Through collaboration, curiosity, and excellence, we aim to inspire a new genera
 ## 🚀 Current Projects & Activities
 
 Our team is continuously working on innovative projects and engaging in activities that expand our technical and creative horizons.  
-Here’s a snapshot of what we’re building and exploring:
+Here’s an overview of our recent **bootcamps** and **team activities** 👇
+
+---
+
+### 🎓 Bootcamps
+
+| Bootcamp | Description | Status |
+|-----------|--------------|---------|
+| [**Introduction to Arduino**](./bootcamps/introduction-to-arduino/README.md) | A hands-on training program designed to teach university students the fundamentals of Arduino, sensors, and embedded systems. | ✅ Completed |
+
+---
+
+### 🎯 Activities
 
 | Activity | Description | Status |
 |-----------|--------------|---------|
-| **Bootcamp: Introduction to Arduino** | A hands-on training program designed to teach university students the fundamentals of Arduino, sensors, and embedded systems. | 📅 Completed |
+|  | | |
 
 
 
