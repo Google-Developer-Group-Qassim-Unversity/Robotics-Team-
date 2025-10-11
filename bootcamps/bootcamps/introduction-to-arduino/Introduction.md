@@ -19,6 +19,5 @@ Over three days, participants learned how to design, wire, and program interacti
 - Day 3: [Motors, LCD & Git]
 ---
 
-## ✅ Status
-**Completed**
+## ✅ **Status : Completed**
 
