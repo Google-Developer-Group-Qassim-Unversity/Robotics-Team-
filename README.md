@@ -1,6 +1,6 @@
-# 🤖GDG Robotics Team
+# 🤖GDG Robotics Team Events
 
-Welcome to the official GitHub repository of **GDG Robotics Team** 
+Welcome to the official GitHub repository of **GDG Robotics Team Events** 
 a dedicated group of students exploring the frontiers of robot design, embedded systems, and artificial intelligence.  
 We build robots that think, move, and make a difference.  
 
